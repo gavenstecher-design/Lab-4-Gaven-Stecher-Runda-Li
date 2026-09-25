@@ -1,0 +1,28 @@
+# Lab 04 - SOP/POS and KMaps
+
+In this lab, you’ve learned how to apply KMaps, Sum Of Products and Products of
+sums to simplify digital logic equations. Then, you’ve proven out that they work
+using an implemented design on your Basys3 boards.
+
+## Rubric
+
+| Item | Description | Value |
+| ---- | ----------- | ----- |
+| Summary Answers | Your writings about what you learned in this lab. | 25% |
+| Question 1 | Your answers to the question | 25% |
+| Question 2 | Your answers to the question | 25% |
+| Question 3 | Your answers to the question | 25% |
+
+## Lab Summary
+
+Summarize your learnings from the lab here.
+We used are knolage of SOP and POS and K-map to make code that we put into viviado and tested to see if we could make a LED   light up. We learned how to write the code and what sybols to use and not to use like +. 
+
+## Lab Questions
+
+### Why are the groups of 1’s (or 0’s) that we select in the KMap able to go across edges?
+Becuse the edgaes are right next to each other and they kina wrap around like ina picture form teh slides formthe lecture portion of the course
+### Why are the names Sum of Products and Products of Sums?
+well sum of progucts areadded hense sum  or reead together and POS are mutilpied together.
+### Open the test.v file – how are we able to check that the signals match using XOR?
+because XOR outputs either a 1 or 0 depending on if the signles are the same or diffrent if you get a 0 your good if not you get a 1 and that means the did not match.
